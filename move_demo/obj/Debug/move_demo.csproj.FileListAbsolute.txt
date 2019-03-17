@@ -1,0 +1,6 @@
+C:\Users\Mehmet\Documents\Projects\move_demo\move_demo\bin\Debug\move_demo.exe.config
+C:\Users\Mehmet\Documents\Projects\move_demo\move_demo\bin\Debug\move_demo.exe
+C:\Users\Mehmet\Documents\Projects\move_demo\move_demo\bin\Debug\move_demo.pdb
+C:\Users\Mehmet\Documents\Projects\move_demo\move_demo\obj\Debug\move_demo.csprojResolveAssemblyReference.cache
+C:\Users\Mehmet\Documents\Projects\move_demo\move_demo\obj\Debug\move_demo.exe
+C:\Users\Mehmet\Documents\Projects\move_demo\move_demo\obj\Debug\move_demo.pdb
